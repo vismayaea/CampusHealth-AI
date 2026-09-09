@@ -1,0 +1,16 @@
+{
+  "name": "campus-health-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workspace wrapper for the Campus Health backend and client",
+  "scripts": {
+    "start": "cd CampusHealth && npm start",
+    "dev": "cd CampusHealth && npm run dev",
+    "server": "cd CampusHealth && npm run dev",
+    "install:backend": "cd CampusHealth && npm install",
+    "install:client": "cd CampusHealth/client && npm install"
+  },
+  "dependencies": {
+    "groq-sdk": "^1.3.0"
+  }
+}

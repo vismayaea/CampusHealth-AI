@@ -1,0 +1,102 @@
+name,age,gender,department,year,phq1,phq2,phq3,phq4,phq5,phq6,phq7,phq8,phq9,gad1,gad2,gad3,gad4,gad5,gad6,gad7,pss1,pss2,pss3,pss4,pss5,pss6,pss7,pss8,pss9,pss10
+Aanya Sharma,21,Female,Computer Science,3rd Year,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,2,2,1,2,1,1,1
+Rahul Mehta,22,Male,Mechanical Engineering,4th Year,2,2,1,2,1,1,1,0,0,2,1,2,1,1,2,1,2,2,2,1,1,2,1,2,2,2
+Priya Singh,20,Female,Psychology,2nd Year,1,1,2,1,1,0,1,1,0,1,1,1,2,1,1,1,2,2,1,2,2,2,1,1,2,2
+Dev Patel,23,Male,Civil Engineering,4th Year,3,3,2,3,2,2,2,1,1,3,2,3,2,2,3,2,3,3,3,1,1,3,1,3,3,3
+Kavya Nair,21,Female,Biotechnology,3rd Year,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,1,3,3,1,1
+Arjun Kumar,24,Male,MBA,1st Year,2,3,3,2,1,2,2,1,1,2,3,2,3,2,2,2,3,2,3,2,2,3,2,2,3,3
+Meera Joshi,22,Female,Arts,3rd Year,1,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,2,2,1,2,2,1,1
+Rohan Das,20,Male,Computer Science,2nd Year,3,2,3,3,2,3,2,2,2,3,3,3,3,2,3,3,3,3,3,0,0,3,0,3,3,3
+Anjali Reddy,21,Female,Mathematics,3rd Year,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0,3,3,0,0
+Siddharth Rao,23,Male,Physics,4th Year,1,2,1,1,1,1,1,0,0,1,2,1,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Nisha Gupta,20,Female,Chemistry,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,3,3,0,0
+Vikram Iyer,25,Male,PhD Research,1st Year,2,2,2,2,1,1,2,0,0,2,2,2,2,1,1,2,3,3,2,1,1,3,1,3,3,3
+Sneha Pillai,21,Female,Commerce,3rd Year,1,1,0,1,1,0,0,0,0,0,1,1,1,0,0,0,2,1,1,2,2,1,2,2,1,2
+Karthik Balaji,22,Male,Electrical Engineering,4th Year,1,1,1,2,0,0,1,0,0,1,1,1,1,0,1,0,2,2,1,2,2,1,2,2,2,2
+Deepa Krishnan,19,Female,Computer Science,1st Year,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,3,3,1,3,3,1,1
+Manish Tiwari,24,Male,Law,3rd Year,3,3,3,3,2,3,3,1,1,3,3,3,3,2,3,3,3,3,3,0,0,3,0,3,3,3
+Pooja Verma,22,Female,MBA,2nd Year,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,2,1,2,2,1,2,2,1,1
+Suresh Nambiar,23,Male,Mechanical Engineering,4th Year,2,1,2,2,1,1,1,1,0,1,1,2,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Lakshmi Srinivasan,20,Female,Biology,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,3,0,3,3,0,0
+Amit Chauhan,21,Male,Computer Science,3rd Year,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,2,2,2,2,2,2,2,2,2,1
+Ritu Agarwal,22,Female,Psychology,4th Year,2,2,1,2,1,1,2,0,0,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2
+Tarun Khanna,23,Male,Civil Engineering,4th Year,3,2,2,3,2,2,2,1,0,2,2,3,2,1,2,2,3,3,3,1,1,3,1,3,3,3
+Divya Menon,21,Female,Architecture,3rd Year,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Rajesh Nair,24,Male,Finance,2nd Year,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,3,3,1,3,3,1,0
+Ananya Bose,20,Female,English Literature,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Gaurav Mishra,22,Male,Computer Science,3rd Year,2,2,2,2,1,2,2,1,0,2,2,2,2,1,2,2,3,3,3,1,1,3,1,3,3,3
+Shreya Das,21,Female,Pharmacy,3rd Year,1,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,1,2,2,1,2,2,1,1
+Nikhil Jain,25,Male,PhD Research,2nd Year,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Pallavi Sharma,22,Female,Biotechnology,4th Year,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,2,2,1,2,2,1,1
+Akash Singh,20,Male,Mechanical Engineering,2nd Year,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,1,2,2,2,2,1,2,2,2,1
+Preeti Kumari,23,Female,Social Work,3rd Year,2,1,2,2,1,2,1,0,0,2,1,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Vishal Bansal,21,Male,Commerce,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Sunita Dubey,24,Female,Education,4th Year,1,1,1,2,1,1,1,0,0,1,1,1,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Harish Pandey,22,Male,Physics,3rd Year,2,2,2,2,2,2,2,1,0,2,2,2,2,2,2,2,3,3,3,1,1,3,1,3,3,3
+Madhuri Patil,21,Female,Chemistry,3rd Year,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,2,1,0
+Kunal Agrawal,23,Male,Computer Science,4th Year,1,1,1,1,0,0,1,0,0,1,1,0,1,0,0,1,2,1,2,2,2,1,2,2,1,2
+Smita Rana,20,Female,Mass Communication,2nd Year,2,2,2,2,2,1,2,1,0,2,2,2,2,1,2,2,2,3,3,2,2,3,2,2,3,3
+Abhishek Tripathi,24,Male,MBA,2nd Year,3,3,2,3,2,2,3,1,1,3,3,3,3,2,3,3,3,3,3,1,1,3,1,3,3,3
+Komal Saxena,22,Female,Nutrition,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,3,3,0,0
+Ritesh Yadav,21,Male,Agricultural Engineering,3rd Year,1,1,2,1,1,1,1,0,0,1,1,2,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Nandini Kapoor,23,Female,Arts,4th Year,2,1,1,2,1,1,1,0,0,1,1,1,2,0,1,1,2,2,2,2,2,2,2,2,2,2
+Mukesh Gulia,25,Male,Civil Engineering,5th Year,3,3,3,3,3,2,3,2,1,3,3,3,3,2,3,3,3,3,3,1,0,3,0,3,3,3
+Vandana Rastogi,20,Female,Mathematics,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,3,3,0,0
+Saurabh Dixit,22,Male,Electrical Engineering,3rd Year,1,2,1,2,1,1,1,0,0,2,2,1,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Reena Malhotra,21,Female,Computer Science,3rd Year,2,2,1,2,2,1,2,0,0,2,2,2,2,1,2,1,2,3,2,2,2,2,2,2,3,2
+Piyush Srivastava,24,Male,Law,4th Year,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Archana Tomar,22,Female,Biology,3rd Year,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,2,2,1,2,2,1,1
+Hitesh Mahajan,23,Male,Computer Science,4th Year,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Swati Bhatt,21,Female,Psychology,3rd Year,2,2,2,2,1,1,2,0,0,2,2,2,2,1,2,2,3,3,3,1,1,3,1,3,3,3
+Nilesh Pawar,20,Male,Mechanical Engineering,2nd Year,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,2,2,1,2,2,1,0
+Renu Choudhary,24,Female,Social Science,4th Year,1,1,2,1,1,0,1,0,0,1,1,2,1,0,1,0,2,2,2,2,2,2,2,2,2,2
+Sanjeev Kaur,22,Male,Finance,3rd Year,2,1,1,2,1,1,1,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Alka Joshi,21,Female,Nursing,2nd Year,3,3,2,3,2,3,3,1,1,3,3,3,3,2,3,3,3,3,3,0,1,3,0,3,3,3
+Mandeep Singh,25,Male,PhD Research,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Babita Chauhan,23,Female,History,4th Year,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,2,1,1
+Vinay Batra,20,Male,Computer Science,2nd Year,2,2,2,2,2,2,2,1,0,2,2,2,2,2,2,2,3,3,3,1,1,3,1,3,3,3
+Geeta Rajput,22,Female,Pharmacy,3rd Year,1,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,2,2,1,2,2,1,2,2,2,1
+Ishaan Verma,24,Male,Architecture,5th Year,3,2,3,3,2,3,2,2,2,3,3,3,3,2,3,3,3,3,3,0,0,3,0,3,3,3
+Tanuja More,21,Female,Biotechnology,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Lavkush Yadav,23,Male,Agricultural Engineering,4th Year,1,1,1,2,1,1,1,0,0,1,1,2,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Monica Ahuja,22,Female,MBA,1st Year,2,2,2,2,1,2,2,0,0,2,2,2,2,1,2,2,2,3,2,2,2,2,2,2,3,2
+Sunil Sherkar,21,Male,Electronics Engineering,3rd Year,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,2,2,0,2,2,0,0
+Preethi Anand,20,Female,Computer Science,2nd Year,3,3,3,3,3,3,3,2,1,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Raghav Banerjee,24,Male,Statistics,4th Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,3,3,1,3,3,1,0
+Hema Devi,22,Female,Social Work,3rd Year,1,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0,2,1,1,2,2,1,2,2,1,1
+Akshay Maheshwari,23,Male,Computer Science,4th Year,2,2,2,2,1,1,2,1,0,2,1,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2
+Urmila Thakur,21,Female,History,3rd Year,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Pranav Shukla,20,Male,Physics,2nd Year,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,2,1,0
+Rashmi Pandey,22,Female,Chemistry,3rd Year,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,2,2,2,2,2,2,2,2,2,2
+Yuvraj Solanki,25,Male,Law,5th Year,2,3,2,2,2,2,2,1,0,2,3,2,2,2,2,2,3,3,3,1,1,3,1,3,3,3
+Chitra Pillai,23,Female,Arts,4th Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Dhruv Kapila,21,Male,Computer Science,3rd Year,1,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,2,2,1,2,2,1,2,2,1,1
+Sarita Meena,24,Female,Education,4th Year,2,2,2,2,2,2,2,1,0,2,2,2,2,2,2,2,3,3,3,1,1,3,1,3,3,3
+Hitendra Chand,22,Male,Mechanical Engineering,3rd Year,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Sunanda Pillai,20,Female,Biotechnology,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,0,3,3,0,0
+Naresh Goud,23,Male,Commerce,4th Year,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,2,1,1
+Varsha Soni,21,Female,Mass Communication,3rd Year,2,2,1,2,1,1,1,0,0,2,1,1,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Deepak Rawat,22,Male,Civil Engineering,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,3,3,0,0
+Lata Nair,24,Female,Nursing,4th Year,1,1,2,1,1,1,1,0,0,1,1,2,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Mohit Arora,21,Male,Computer Science,3rd Year,3,2,3,2,2,3,2,1,1,3,2,3,2,2,3,2,3,3,3,1,1,3,1,3,3,3
+Poornima Deodhar,20,Female,Mathematics,2nd Year,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,2,2,1,2,2,1,0
+Sachin Bhandarkar,25,Male,MBA,2nd Year,2,2,2,2,1,1,2,1,0,2,2,2,2,1,2,2,3,3,2,2,2,2,2,2,3,2
+Kalpana Sawant,22,Female,Psychology,3rd Year,1,1,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,2,1,2,2,1,2,2,1,1
+Vimal Garg,23,Male,Electrical Engineering,4th Year,3,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Sunaina Misra,21,Female,Arts,3rd Year,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,3,3,0,3,3,0,0
+Tarek Shah,24,Male,Architecture,5th Year,2,1,2,2,1,1,2,1,0,1,1,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2
+Madhulika Roy,22,Female,Social Science,3rd Year,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Bikash Mohanty,20,Male,Agricultural Engineering,2nd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Divyanka Tripathi,23,Female,Computer Science,4th Year,3,3,2,3,2,3,3,2,1,3,3,3,3,2,3,3,3,3,3,0,0,3,0,3,3,3
+Hemant Bhosale,21,Male,Finance,3rd Year,1,2,1,1,1,1,1,0,0,2,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,1
+Chetna Khullar,24,Female,Pharmacy,4th Year,2,2,2,2,2,1,2,1,0,2,2,2,2,1,2,2,2,3,3,2,2,3,2,2,3,3
+Srinivasa Raju,22,Male,Statistics,3rd Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,3,3,0,0
+Bhavna Menon,21,Female,Biology,3rd Year,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,2,2,1,1
+Pankaj Tiwari,25,Male,PhD Research,2nd Year,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,0,0,3,0,3,3,3
+Rachna Bhadra,20,Female,Mass Communication,1st Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,1,2,2,1,0
+Amar Sood,22,Male,Civil Engineering,3rd Year,2,2,1,2,1,2,1,0,0,2,2,1,2,1,2,1,2,2,2,2,2,2,2,2,2,2
+Jyoti Kumari,23,Female,Education,4th Year,1,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,2,2,1,2,2,1,2,2,1,1
+Sumit Dhamija,21,Male,Computer Science,3rd Year,3,3,2,3,2,3,2,2,1,3,3,3,3,2,3,2,3,3,3,1,0,3,0,3,3,3
+Nutan Choudhary,24,Female,Social Work,4th Year,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,3,3,0,0
+Kishore Narayanan,22,Male,Mechanical Engineering,4th Year,2,1,2,1,1,1,1,0,0,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2
+Avantika Sinha,21,Female,Psychology,3rd Year,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,2,2,2,2,2,2,2,2,2,2
